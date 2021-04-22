@@ -11,12 +11,9 @@ The data is sourced from Kaggle (https://www.kaggle.com/blastchar/telco-customer
 
 ### <ins/>Included in this Repository<ins/>
 * EDA.ipynb : Commented Walkthrough of the Exploratory Data Analysis process and visualizations
-* decision_tree.ipynb: Decision Tree Classification Model
-* KNN.ipynb: K-Nearest Neighbors Classification Model 
+* Logistic_regression.ipynb: Decision Tree Classification Model
 * decision_tree.ipynb: Decision Tree Classification Model    
 * rf_bagging.ipynb: Random Forrest and BaggingClassifier Classification Models
-    
-* data [folder]: Folder containing all used data
-* pics [folder]: Folder containing figures & screenshots for medium blog posts
+  
     
 
